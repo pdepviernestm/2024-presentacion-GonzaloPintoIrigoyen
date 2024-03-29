@@ -9,4 +9,6 @@
 - Desde chico soy fan de las peliculas de "Como entrenar a tu dragón"
 - Cada verano me veo las 4 pelis de Shrek
 
-## Fotos
+## Foto de mi perro
+
+![](ImagenPerro.jpg)
